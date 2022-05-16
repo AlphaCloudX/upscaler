@@ -20,7 +20,9 @@ Now is easy to train with new data, modify model on the fly, modify parameters, 
 # Speeds up time to 4seconds a batch of 1000 images at 256x256x1 compared to 174seconds for 400 images at 300x300x1 in previous versions
 
 
-to get done:
+to get done
 optimize data loading -many redundant for loops
+
 improve model --> allowing 3 channels
+
 clean up code
