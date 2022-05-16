@@ -23,19 +23,19 @@ Data Format:
 
 \train
 
-  \lowRes
+.\lowRes
 
-  \original
+.\original
 
 \val
 
-  \lowRes
+.\lowRes
 
-  \original
+.\original
 
 \test
 
-  \highRes
+.\highRes
 
 # Speeds up time to 4seconds a batch of 1000 images at 256x256x1 compared to 174seconds for 400 images at 300x300x1 in previous versions
 
