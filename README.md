@@ -13,6 +13,8 @@ Added Completely custom data load, includes:
 
 variables file which allows for variables to be changed on the fly and take effect in all files.
 
+compareFromRuns file which allows benchmarking of images from different models to see which one works best on a per pixel basis
+
 No general improvements to previous model performance other than adding 2nd option but this limitation may be because of only using single channel and not using 3 channeled rgb image
 
 Now is easy to train with new data, modify model on the fly, modify parameters, and most importantly take advantage of directml to use any gpu to train ai model.
