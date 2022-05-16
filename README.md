@@ -11,3 +11,4 @@ using this model architecture solved artifacting and created a substantial impro
 
 this dataset was also trained on gameplay videos split into frames
 
+loaded the weights from the new model and upscaled using the ver_1 code
