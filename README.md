@@ -18,3 +18,8 @@ No general improvements to previous model performance other than adding 2nd opti
 Now is easy to train with new data, modify model on the fly, modify parameters, and most importantly take advantage of directml to use any gpu to train ai model.
 
 # Speeds up time to 4seconds a batch of 1000 images at 256x256x1 compared to 174seconds for 400 images at 300x300x1 in previous versions
+
+
+to get done:
+optimize data loading -many redundant for loops
+improve model --> allowing 3 channels
