@@ -23,3 +23,4 @@ Now is easy to train with new data, modify model on the fly, modify parameters, 
 to get done:
 optimize data loading -many redundant for loops
 improve model --> allowing 3 channels
+clean up code
