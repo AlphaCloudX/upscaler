@@ -9,7 +9,7 @@ Added Completely custom data load, includes:
 
 -main.py reads the h5 file into a numpy array and shapes the data so it can be used, then instead of feeding the model tensors, it's fed numpy arrays that correspond to images
 
--mdoel then trains from train/valX which is lowRes images, and the answer/expected output is train/valY
+-model then trains from train/valX which is lowRes images, and the answer/expected output is train/valY
 
 variables file which allows for variables to be changed on the fly and take effect in all files.
 
