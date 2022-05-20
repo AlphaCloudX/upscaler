@@ -111,6 +111,7 @@ Close Up
 
 
 Here bicubic struggles to create the extra detail needed for the tree stump at the center of the image
+make sure to click on image comparison to better see the difference
 
 ----------
 
