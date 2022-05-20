@@ -67,6 +67,9 @@ Bicubic has advantage of looking sharper but when zoomed in on quickly loses qua
 A sharpened version of the ai upsampled version looks like this:
 ![image](https://user-images.githubusercontent.com/66267343/169444034-014b3279-007d-4438-aa47-fec72346a788.png)
 
+compared to
+![aiScaled_landscape-nature-wallpaper-preview](https://user-images.githubusercontent.com/66267343/169442279-33419925-34e6-484c-94cd-124e9b733c53.jpg)
+
 
 ----------
 
