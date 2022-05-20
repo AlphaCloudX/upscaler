@@ -57,6 +57,10 @@ modelWeights folder contains the 3 weights used by the model, allows model to be
 
 Goal was to beat bicubic upsampling using a pure ai approach which it is capable of doing as seen in the examples.
 
+Original:
+![landscape-nature-wallpaper-preview](https://user-images.githubusercontent.com/66267343/169445354-d6f61094-7951-488e-9b0b-e39377079f27.jpg)
+
+
 Ai Scaled:
 ![aiScaled_landscape-nature-wallpaper-preview](https://user-images.githubusercontent.com/66267343/169442279-33419925-34e6-484c-94cd-124e9b733c53.jpg)
 
