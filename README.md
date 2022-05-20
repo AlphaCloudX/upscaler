@@ -77,6 +77,8 @@ From afar bicubic looks better because of the added sharpness in the image
 Close Up of mountain
 ![image](https://user-images.githubusercontent.com/66267343/169442576-930bcb2e-c3c8-400c-8ccd-035ae8f38917.png)
 
+make sure to click on image comparison to better see the difference
+
 The left image is the bicubic and the right is the ai scaled version,
 this was performed on a 728x486 image and upsampled to 1456x972, by a factor of x2
 
@@ -111,6 +113,7 @@ Close Up
 
 
 Here bicubic struggles to create the extra detail needed for the tree stump at the center of the image
+
 make sure to click on image comparison to better see the difference
 
 ----------
