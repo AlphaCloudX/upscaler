@@ -89,6 +89,29 @@ the bicubc version is adding too much noise that doesn't look right, this is als
 
 Therefor the ai version can create more detail out of the image but results in a more washed out image, if this can be solved either by giving more training data(was only trained on 1k 8k images) or through post processing it can do very well.
 
+Here is an example showing that the ai can create more detail:
+
+Original Image:
+
+![e642ba7a9552dfd3a8a56dec6cb4799e](https://user-images.githubusercontent.com/66267343/169446222-d20f67ef-0a0d-4efa-8690-2696438b6880.jpg)
+
+Ai Scaled
+
+![aiScaled_e642ba7a9552dfd3a8a56dec6cb4799e](https://user-images.githubusercontent.com/66267343/169446252-05763888-b427-4006-98d2-8167ebd57912.jpg)
+
+
+Bicubic Scaling
+
+![bicubicScaling_e642ba7a9552dfd3a8a56dec6cb4799e](https://user-images.githubusercontent.com/66267343/169446262-f9b6faaa-aced-44d1-b13f-be6e7a6f0c34.jpg)
+
+
+Close Up
+
+![image](https://user-images.githubusercontent.com/66267343/169446364-da659037-f567-4692-a7f3-b9b8296e647b.png)
+
+
+Here bicubic struggles to create the extra detail needed for the tree stump at the center of the image
+
 ----------
 
 Stuff I Still Want To Implement:
