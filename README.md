@@ -19,6 +19,27 @@ Config file has been cleaned up with more meaningful parameters
 
 File structure of the project is more clean with data being devided based on validation, test, train, runs(from tests) and upscaledImages which is the upscaled output of the single image
 
+Data folder is now:
+data/runs
+
+data/test
+
+data/training/
+data/training/augmented
+data/training/original
+
+data/upscaledImages
+
+data/validation
+data/validation/augmented
+data/validation/original
+
+data/imageDatah5
+
+data/modelWeights
+
+imageDatah5 contains all the h5 files for the different channels for val and train data
+
 modelWeights folder contains the 3 weights used by the model, allows model to be fine tuned to specific channels
 
 -Also means that the code can be edited to use other data formats such as RGB and then merge them
