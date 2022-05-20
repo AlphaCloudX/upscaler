@@ -75,6 +75,10 @@ this was performed on a 728x486 image and upsampled to 1456x972, by a factor of 
 
 Bicubic has advantage of looking sharper but when zoomed in on quickly loses quality, the ai can further be fine tuned by adding in post processing effects such as sharpening.
 
+We see that smoothing out the image in this case works to our favour as seen in the water tide
+![image](https://user-images.githubusercontent.com/66267343/169444996-3ee4175f-3cda-4634-8108-7f72d15bb66e.png)
+
+the bicubc version is adding too much noise that doesn't look right, this is also seen on the tree stumps
 
 ----------
 
