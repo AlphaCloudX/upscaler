@@ -65,6 +65,6 @@ this was performed on a 728x486 image and upsampled to 1456x972, by a factor of 
 ----------
 
 Stuff I Still Want To Implement:
-using kneat in a gan style appraoch where 1 kneat algorithm generates an image, another kneat algorithm guesses on which one is fake and which one is real and keep going until they look near similar
+using kneat in a gan style appraoch where 1 kneat algorithm generates an image, another kneat algorithm guesses on which one is fake and which one is real and keep going until they look near similar, can take advantage of bigger population sizes and seeing if neuroevoltion can helpout with creating better images as it learns what works and what doesn't
 
 generating lots of lower resolution shapes with colour patterns that are commonly found in images in hopes ai can train on shape upscaling and use that knowledge to upsample similar shapes in the image. For example using low resolution rectangles to better upsample images with windows or rectangular signs. Or using triangles for more complex shapes.
