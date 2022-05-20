@@ -45,3 +45,19 @@ modelWeights folder contains the 3 weights used by the model, allows model to be
 -Also means that the code can be edited to use other data formats such as RGB and then merge them
 
 Goal was to beat bicubic upsampling using a pure ai approach which it is capable of doing as seen in the examples.
+
+Ai Scaled:
+![aiScaled_landscape-nature-wallpaper-preview](https://user-images.githubusercontent.com/66267343/169442279-33419925-34e6-484c-94cd-124e9b733c53.jpg)
+
+
+Bicubic:
+![bicubicScaling_landscape-nature-wallpaper-preview](https://user-images.githubusercontent.com/66267343/169442280-d37790e4-c917-4bfc-ab28-3dd784fb1288.jpg)
+
+Bicubic is more pixelated with the trees in particular being more noisy
+The Ai Scaled version does look a bit more washed out with much more smoothing which can work for or against it's upsampling
+
+Close Up of mountain
+![image](https://user-images.githubusercontent.com/66267343/169442576-930bcb2e-c3c8-400c-8ccd-035ae8f38917.png)
+
+The left image is the bicubic and the right is the ai scaled version,
+this was performed on a 728x486 image and upsampled to 1456x972, by a factor of x2
