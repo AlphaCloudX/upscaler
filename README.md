@@ -87,6 +87,8 @@ We see that smoothing out the image in this case works to our favour as seen in 
 
 the bicubc version is adding too much noise that doesn't look right, this is also seen on the tree stumps
 
+Therefor the ai version can create more detail out of the image but results in a more washed out image, if this can be solved either by giving more training data(was only trained on 1k 8k images) or through post processing it can do very well.
+
 ----------
 
 Stuff I Still Want To Implement:
