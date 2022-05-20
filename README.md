@@ -1,7 +1,9 @@
 # Upscaler Version 4 -Final Version
 
 Redid custom data loader to be more efficient when loading data
+
 -now supports multithreading of validation and training data at the same time
+
 -also writes the high res and low res data to the array at the same time and appends each list at the end
 
 Before bicubic upscaling was used to upsample U and V layers of image, changed it so that the Ai does those aswell making it a full ai implementation, no other upscaling method is used
@@ -18,6 +20,7 @@ Config file has been cleaned up with more meaningful parameters
 File structure of the project is more clean with data being devided based on validation, test, train, runs(from tests) and upscaledImages which is the upscaled output of the single image
 
 modelWeights folder contains the 3 weights used by the model, allows model to be fine tuned to specific channels
+
 -Also means that the code can be edited to use other data formats such as RGB and then merge them
 
 Goal was to beat bicubic upsampling using a pure ai approach which it is capable of doing as seen in the examples.
