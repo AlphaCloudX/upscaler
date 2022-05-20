@@ -72,6 +72,8 @@ Bicubic:
 Bicubic is more pixelated with the trees in particular being more noisy
 The Ai Scaled version does look a bit more washed out with much more smoothing which can work for or against it's upsampling
 
+From afar bicubic looks better because of the added sharpness in the image
+
 Close Up of mountain
 ![image](https://user-images.githubusercontent.com/66267343/169442576-930bcb2e-c3c8-400c-8ccd-035ae8f38917.png)
 
