@@ -62,6 +62,8 @@ Close Up of mountain
 The left image is the bicubic and the right is the ai scaled version,
 this was performed on a 728x486 image and upsampled to 1456x972, by a factor of x2
 
+Bicubic has advantage of looking sharper but when zoomed in on quickly loses quality, the ai can further be fine tuned by adding in post processing effects such as sharpening.
+
 ----------
 
 Stuff I Still Want To Implement:
