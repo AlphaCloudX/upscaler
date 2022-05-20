@@ -64,6 +64,10 @@ this was performed on a 728x486 image and upsampled to 1456x972, by a factor of 
 
 Bicubic has advantage of looking sharper but when zoomed in on quickly loses quality, the ai can further be fine tuned by adding in post processing effects such as sharpening.
 
+A sharpened version of the ai upsampled version looks like this:
+![image](https://user-images.githubusercontent.com/66267343/169444034-014b3279-007d-4438-aa47-fec72346a788.png)
+
+
 ----------
 
 Stuff I Still Want To Implement:
